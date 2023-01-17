@@ -1,0 +1,21 @@
+h1 {
+    color: #0000ff;
+    background-color: #8ff1dd;
+    border: solid 10px #14895e;
+    border-width: 10px 5px;
+}
+
+h2 {
+    color: #640014;
+    background-color: #eb89c4;
+    border: solid 10px #fe7db1;
+    border-width: 10px 5px;
+}
+
+body {
+    background-color: #f4d1ff
+}
+
+header {
+    background-color: #a7f5e5
+}
